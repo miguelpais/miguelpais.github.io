@@ -1,0 +1,20 @@
+# Site settings
+title: Webpage and blog of Miguel Pais
+email: your-email@domain.com
+description: "Webpage and blog of Miguel Pais"
+baseurl: ""
+url: "http://miguelpais.com"
+twitter_username: miguelpais
+github_username:  miguelpais
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      layout: "blog"
