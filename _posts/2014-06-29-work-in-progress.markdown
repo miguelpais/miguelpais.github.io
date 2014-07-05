@@ -1,5 +1,5 @@
 ---
-tags: coco
+tags: blog
 ---
 It has been quite some time since this domain has been active... 
 
