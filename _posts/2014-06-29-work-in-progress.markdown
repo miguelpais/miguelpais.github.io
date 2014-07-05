@@ -1,4 +1,6 @@
 ---
+title: "Work in progress..."
+layout: blog
 tags: blog
 ---
 It has been quite some time since this domain has been active... 
